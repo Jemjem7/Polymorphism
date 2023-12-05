@@ -8,6 +8,6 @@ public class Painter extends Artist {
     }
 
     public void createArt() {
-        System.out.println(name + " is painting a masterpiece");
+        System.out.println(name + " Is painting a masterpiece");
     }
 }
