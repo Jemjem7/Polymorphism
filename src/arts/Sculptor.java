@@ -8,6 +8,6 @@ public class Sculptor extends Artist {
     }
 
     public void createArt() {
-        System.out.println(name + " is scribbling a masterpiece");
+        System.out.println(name + " Is scribbling a masterpiece");
     }
 }
